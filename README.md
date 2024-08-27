@@ -10,8 +10,8 @@ This project is a simple card carousel built using React and Tailwind CSS. It al
 - Easy integration: The card carousel can be easily integrated into existing React projects, making it a convenient choice for developers.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/card-carousel.git`
-2. Navigate to the project directory: `cd card-carousel`
+1. Clone the repository: `git clone https://github.com/sharjeel-siddiqui12/card-carousel-using-react-tailwind.git`
+2. Navigate to the project directory: `cd card-carousel-using-react-tailwind`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 
